@@ -8,3 +8,19 @@ function Greeting(props){
     
 }
 export default Greeting;
+
+/*import './App.css';
+import Greeting from './Greeting';
+function App() {
+  return (
+    <div >
+      <h1>
+        Welcome To My App
+      </h1>
+      <Greeting name="Vishruti"/>
+    </div>
+  );
+}
+
+export default App;
+*/
